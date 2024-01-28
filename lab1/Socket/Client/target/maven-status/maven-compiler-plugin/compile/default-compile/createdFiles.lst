@@ -1,0 +1,11 @@
+classes\Event.class
+main\Models\Filter.class
+main\Models\Song.class
+main\Events\OnStart.class
+main\Events\OnNewSong.class
+classes\IEventHandler.class
+classes\Client.class
+main\Models\ISong.class
+classes\IClientConnection.class
+classes\ClientConnection.class
+main\Main.class
