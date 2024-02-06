@@ -1,7 +1,0 @@
-Interfaces\ISongProvider.class
-Server\Classes\Song.class
-Interfaces\ISong.class
-Server\Server.class
-distrilabs\rmi\Rmi.class
-Client\Client.class
-Server\Classes\SongProvider.class
